@@ -13,7 +13,6 @@ Source:		ftp.perl.org/pub/CPAN/modules/by-module/MARC/%{module}-%{version}.tar.b
 Url:		http://search.cpan.org/dist/%{module}/
 
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-root
 
 %description
 Module for handling MARC records as objects.
