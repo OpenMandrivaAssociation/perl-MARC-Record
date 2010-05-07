@@ -1,15 +1,15 @@
 %define module	MARC-Record
 %define name	perl-%{module}
-%define version 2.0.0
-%define release %mkrel 5
+%define version 2.0.2
+%define release %mkrel 1
 
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
 Summary:	%{module} module for perl
-License:	GPL or Artistic
+License:	GPLv2+ or Artistic
 Group:		Development/Perl
-Source:		ftp.perl.org/pub/CPAN/modules/by-module/MARC/%{module}-%{version}.tar.bz2
+Source:		ftp.perl.org/pub/CPAN/modules/by-module/MARC/%{module}-%{version}.tar.gz
 Url:		http://search.cpan.org/dist/%{module}/
 
 BuildArch:	noarch
