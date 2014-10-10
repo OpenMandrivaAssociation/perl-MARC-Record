@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	2.0.3
-Release:	2
+Release:	3
 Summary:	%{module} module for perl
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
