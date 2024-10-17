@@ -6,7 +6,7 @@ Release:	4
 Summary:	%{module} module for perl
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{module}/
+Url:		https://search.cpan.org/dist/%{module}/
 Source:		ftp.perl.org/pub/CPAN/modules/by-module/MARC/%{module}-%{version}.tar.gz
 
 BuildRequires:	perl-devel
