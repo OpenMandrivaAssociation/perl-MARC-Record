@@ -9,6 +9,7 @@ Group:		Development/Perl
 Url:		https://search.cpan.org/dist/%{module}/
 Source:		ftp.perl.org/pub/CPAN/modules/by-module/MARC/%{module}-%{version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildArch:	noarch
 
